@@ -1,0 +1,15 @@
+D:\Projects\Lab4\Second\bin\Debug\net6.0\Second.exe
+D:\Projects\Lab4\Second\bin\Debug\net6.0\Second.deps.json
+D:\Projects\Lab4\Second\bin\Debug\net6.0\Second.runtimeconfig.json
+D:\Projects\Lab4\Second\bin\Debug\net6.0\Second.dll
+D:\Projects\Lab4\Second\bin\Debug\net6.0\ref\Second.dll
+D:\Projects\Lab4\Second\bin\Debug\net6.0\Second.pdb
+D:\Projects\Lab4\Second\obj\Debug\net6.0\Second.csproj.AssemblyReference.cache
+D:\Projects\Lab4\Second\obj\Debug\net6.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Lab4\Second\obj\Debug\net6.0\Second.AssemblyInfoInputs.cache
+D:\Projects\Lab4\Second\obj\Debug\net6.0\Second.AssemblyInfo.cs
+D:\Projects\Lab4\Second\obj\Debug\net6.0\Second.csproj.CoreCompileInputs.cache
+D:\Projects\Lab4\Second\obj\Debug\net6.0\Second.dll
+D:\Projects\Lab4\Second\obj\Debug\net6.0\ref\Second.dll
+D:\Projects\Lab4\Second\obj\Debug\net6.0\Second.pdb
+D:\Projects\Lab4\Second\obj\Debug\net6.0\Second.genruntimeconfig.cache

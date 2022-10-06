@@ -1,0 +1,15 @@
+D:\Projects\Lab4\Third\bin\Debug\net6.0\Third.exe
+D:\Projects\Lab4\Third\bin\Debug\net6.0\Third.deps.json
+D:\Projects\Lab4\Third\bin\Debug\net6.0\Third.runtimeconfig.json
+D:\Projects\Lab4\Third\bin\Debug\net6.0\Third.dll
+D:\Projects\Lab4\Third\bin\Debug\net6.0\ref\Third.dll
+D:\Projects\Lab4\Third\bin\Debug\net6.0\Third.pdb
+D:\Projects\Lab4\Third\obj\Debug\net6.0\Third.csproj.AssemblyReference.cache
+D:\Projects\Lab4\Third\obj\Debug\net6.0\Third.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Lab4\Third\obj\Debug\net6.0\Third.AssemblyInfoInputs.cache
+D:\Projects\Lab4\Third\obj\Debug\net6.0\Third.AssemblyInfo.cs
+D:\Projects\Lab4\Third\obj\Debug\net6.0\Third.csproj.CoreCompileInputs.cache
+D:\Projects\Lab4\Third\obj\Debug\net6.0\Third.dll
+D:\Projects\Lab4\Third\obj\Debug\net6.0\ref\Third.dll
+D:\Projects\Lab4\Third\obj\Debug\net6.0\Third.pdb
+D:\Projects\Lab4\Third\obj\Debug\net6.0\Third.genruntimeconfig.cache
